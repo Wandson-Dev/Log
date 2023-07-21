@@ -1,10 +1,11 @@
-ewogICJhcHBfdmVyc2lvbiI6ICIxLjEuMCIsCiAgImFwcF9uYW1lIjogIkNocm9udXMgTWV0YSIs
-CiAgInVwZF90ZXh0IjogIkF0dWFsaXplIHNldSBDaHJvbnVzIE1ldGEgUGFyYSBhIFZlcnPDo28g
-TWFpcyBSZWNlbnRlISBEYXMgTWVsaG9yaWFzIEluY2x1ZW06XG4tIE1lbGhvcmlhcyBuYSBPdGlt
-aXphw6fDo29cbi0gQ29ycmXDp8OjbyBkZSBCdWdzXG4tIDIgTm92YXMgRnVuw6fDtWVzIEFkaWNp
-b25hZGFzXG4tIEN1cnNvcyBDb3JyaWdpZG9zXG5cbkF0dWFsaXplIErDoSEiLAogICJ1cGRfdGl0
-bGUiOiAiTm92YSBWZXJzw6NvIERpc3BvbsOtdmVsISIsCiAgImFwcF9wYWNrcGFnZSI6ICJjb20u
-Q2hyb251c01ldGEud2RldiIsCiAgImtleV9kZXNjcmlwdCI6ICJHc2JlT3FsSmRicktzNzJIc2JP
-ZWthcGFMempYSXdqSTc2Skp3bk9hbUlyakpXamRqcmpkakFvS2VqZGJyallxZ3cuamF2YWxhbmci
-LAogICJjYW5jZWwiOiAiZmFsc2UiLAogICJub3RpZnkiOiAiZmFsc2UiLAogICJ1cmxfdXBkYXRl
-IjogImh0dHBzOi8vR29vZ2xlLmNvbSIKfQ==
+{
+  "app_version": "1.1.0",
+  "app_name": "Chronus Meta",
+  "upd_text": "Atualize seu Chronus Meta Para a Versão Mais Recente! Das Melhorias Incluem:\n- Melhorias na Otimização\n- Correção de Bugs\n- 2 Novas Funções Adicionadas\n- Cursos Corrigidos\n\nAtualize Já!",
+  "upd_title": "Nova Versão Disponível!",
+  "app_packpage": "com.ChronusMeta.wdev",
+  "key_descript": "GsbeOqlJdbrKs72HsbOekapaLzjXIwjI76JJwnOamIrjJWjdjrjdjAoKejdbrjYqgw.javalang",
+  "cancel": "false",
+  "notify": "true",
+  "url_update": "https://Google.com"
+}
