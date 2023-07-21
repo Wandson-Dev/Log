@@ -6,6 +6,6 @@
   "app_packpage": "com.ChronusMeta.wdev",
   "key_descript": "GsbeOqlJdbrKs72HsbOekapaLzjXIwjI76JJwnOamIrjJWjdjrjdjAoKejdbrjYqgw.javalang",
   "cancel": "false",
-  "notify": "true",
+  "notify": "false",
   "url_update": "https://Google.com"
 }
