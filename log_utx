@@ -1,11 +1,11 @@
 {
-  "app_version": "1.1.0",
+  "app_version": "1.1.5",
   "app_name": "Chronus Meta",
-  "upd_text": "Atualize seu Chronus Meta Para a Versão Mais Recente! Das Melhorias Incluem:\n- Melhorias na Otimização\n- Correção de Bugs\n- 2 Novas Funções Adicionadas\n- Cursos Corrigidos\n\nAtualize Já!",
-  "upd_title": "Nova Versão Disponível!",
+  "upd_text": "NOVA ATUALIZAÇÃO: Atualize o Seu CHRONUS META e Tenha Acesso a Algumas Melhoras e Funções, Como:\n• Novo Curso Adicionado;\n• Bugs Android 12 Corrigido;\n• Interações Agora Compatíveis com Todas as Versões do ANDROID;\n• Nova Logo e Design;\n• Melhorias Para a Otimização da Bateria, Como Opacidade Total do Fundo do Aplicativo;\n• Alguns Cursos Via Drive Adicionados;\n• Nova Função Adicionada;\n• Novas Criptografias;\n• Novos JSON Adicionados;\n• Sistema de Logs de Depuração Adicionado, Isso Serve Para Melhorar e Ajudar-nos a Detectar Bugs;\nMusica Adicionada Para Melhoria no Uso (BETA);\n• Cursos Otimizados;\n• Interação de Clique Otimizada.",
+  "upd_title": "Nova Versão Disponível! Ainda Grátis!",
   "app_packpage": "com.ChronusMeta.wdev",
   "key_descript": "GsbeOqlJdbrKs72HsbOekapaLzjXIwjI76JJwnOamIrjJWjdjrjdjAoKejdbrjYqgw.javalang",
-  "cancel": "false",
-  "notify": "false",
-  "url_update": "https://Google.com"
+  "cancel": "true",
+  "notify": "true",
+  "url_update": "https://drive.google.com/file/d/1L74bEJX_1_LRTebteVpRlcjv8Y0XOt3J/view?usp=drivesdk"
 }
